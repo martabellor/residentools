@@ -13,7 +13,7 @@ Residentools is a calendar tool designed specifically for medical residents to m
 
 To use Residentools, simply clone this repository to your local machine:
 
-git clone https://github.com/your_username/residentools.git
+git clone https://github.com/martabellor/residentools.git
 
 ## Usage
 
